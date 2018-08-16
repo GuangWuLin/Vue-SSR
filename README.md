@@ -1,6 +1,6 @@
 # 使用方法
 ```
-git clone https://github.com/GuangWuLin/vue-todo-tech.git
+git clone https://github.com/GuangWuLin/Vue-SSR.git
 ```
 进入项目目录，运行
 ```
